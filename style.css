@@ -322,8 +322,8 @@ footer hr {
 }
 
 .button {
-  width: 178px;
-  height: 40px;
+  /* width: 178px; */
+  /* height: 40px; */
   display: flex;
   justify-content: center;
   align-items: center;
