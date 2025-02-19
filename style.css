@@ -617,4 +617,11 @@ footer hr {
     display: flex;
     flex-direction: column-reverse;
   }
+
+  .signup {
+    flex-wrap: nowrap;
+  } 
+  .signup1 {
+    flex-wrap: nowrap;
+  }
 }
