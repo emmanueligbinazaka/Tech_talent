@@ -624,4 +624,8 @@ footer hr {
   .signup1 {
     flex-wrap: nowrap;
   }
+
+  .button {
+    margin-top: 20px;
+  }
 }
