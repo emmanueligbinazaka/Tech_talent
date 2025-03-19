@@ -328,22 +328,23 @@ footer hr {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  padding-top: 10px;
-  padding-right: 30px;
-  padding-bottom: 10px;
-  padding-left: 30px;
-  border-radius: 20px;
-  background-color: #e52936;
-  border: none;
-  color: white;
-  font-weight: 600;
-  font-size: 16px;
+  padding-top: 10px!important;
+  padding-right: 30px!important;
+  padding-bottom: 10px!important;
+  padding-left: 30px!important;
+  border-radius: 20px!important;
+  background-color: #e52936 !important;
+  border: none!important;
+  color: white!important;
+  font-weight: 600!important;
+  font-size: 16px!important;
   line-height: 20.16px;
 }
 
+
 .button:hover {
-  background-color: #fff;
-  color: black;
+  background-color: #fff!important;
+  color: black!important;
 }
 
 .signup a {
@@ -530,7 +531,6 @@ footer p {
   gap: 10px;
 }
 
-
 .foot img {
   width: 20px;
   height: 20px;
@@ -636,8 +636,8 @@ footer hr {
   .signup1 {
     flex-wrap: nowrap;
   }
-
+/* 
   .button {
     margin-top: 20px;
-  }
+  } */
 }
